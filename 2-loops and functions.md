@@ -12,7 +12,13 @@
 
 #### Скрипт:
 
-![Скрипт](https://github.com/user-attachments/assets/6321f202-71b2-462b-ac28-bc1263ea9e24)
+* первый вариант:
+  ![Скрипт](https://github.com/user-attachments/assets/6321f202-71b2-462b-ac28-bc1263ea9e24)
+
+* второй вариант: 
+  ```bash
+  echo {3..100..3}
+  ```
 
 #### Проверка скрипта:
 
